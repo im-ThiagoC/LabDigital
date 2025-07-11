@@ -1,4 +1,4 @@
-# LabDigital – Plataforma Web de Realidade Aumentada Educacional
+# LabDigital – Plataforma Web de Realidade Aumentada para Educação utilizando MindAR.js
 
 ## Visão Geral
 
